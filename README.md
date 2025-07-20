@@ -61,7 +61,7 @@ A Spring Boot REST API service that converts long URLs into compact, manageable 
 
 1. **Build and run with Docker Compose**
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
 2. **Or build and run manually**
